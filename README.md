@@ -6,18 +6,6 @@ MindPath
 
 Problem: Students struggle with mental health but often don't seek help due to stigma or lack of awareness of their emotional patterns.
 
-Solution
-
-Become the **primary digital mental health partner for Egyptian universities** by selling them an annual subscription for your platform. This platform should offer their students:
-
-1. **Core Revenue Service:** **Online therapy sessions** with specialized, culturally-aware therapists (addressing the acute need).
-2. **Key Engagement Tool:** A free, **anonymous peer-support community** and awareness events (reducing stigma and driving usage).
-3. **Future Expansion:** A **premium mentorship** program for career anxiety (a unique differentiator).
-
-**primary customer is the university, not the student.** This B2B model provides scalable revenue and makes the service free for students, solving the affordability problem and beating all direct-to-consumer competitors.
-
-**sell a complete wellness solution to universities.**
-
 ### Project Timeline
 
 [mindPath timeline](https://www.notion.so/25526e06c5d4807e997de1eed02b8c61?pvs=21)
