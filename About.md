@@ -1,2 +1,3 @@
 # MindPath-
-"An intuitive mental health platform that combines AI-powered insights with evidence-based therapeutic techniques to help users understand, manage, and improve their mental wellness journey."
+
+مايند باث هي منصة رقمية تهدف إلى دعم الصحة النفسية للطلاب في مصر من خلال، جلسات استشارة نفسيه متخصصه للطلاب ، تنظيم موتمرات للتوعيه بالصحه النفسيه ،تنظيم ورش عمل لمساعدة الطلاب ، نسعى إلى خلق بيئة آمنة تساعد الطلاب على التعبير عن مشاعرهم، مواجهة التحديات النفسية، والحصول على الدعم المناسب في الوقت المناسب.
